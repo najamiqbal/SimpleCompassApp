@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="action_settings">Settings</string>
+    <string name="compass_dial" translatable="false">Compass Dial</string>
+    <string name="compass_hands" translatable="false">Compass Hands</string>
+    <string name="gps_settings_title">GPS settings</string>
+    <string name="gps_settings_text">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="settings_button_ok">Settings</string>
+    <string name="settings_button_cancel">Cancel</string>
+    <string name="msg_permission_not_granted_yet">Location access not available yet</string>
+    <string name="msg_permission_granted">Location Access Granted, press GPS button now.</string>
+    <string name="toast_permission_required">This app requires Access Location</string>
+    <string name="your_location">Your Location:</string>
+    <string name="location_not_ready">Location not ready, please press button again.</string>
+    <string name="qibla_direction">Qaaba Direction:</string>
+    <string name="pls_enable_location">Please turn on Location and press the button again.</string>
+    <string name="degree_from_north">degrees from the north.</string>
+    <string name="using_last_location">using last location.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="calib_mes">Hold your phone in front of you and wave it in a figure eight motion.</string>
+
+    <string name="sotw_north">N</string>
+    <string name="sotw_east">E</string>
+    <string name="sotw_south">S</string>
+    <string name="sotw_west">W</string>
+    <string name="sotw_northeast">NE</string>
+    <string name="sotw_northwest">NW</string>
+    <string name="sotw_southeast">SE</string>
+    <string name="sotw_southwest">SW</string>
+
+    <!--for test-->
+
+    <string name="ApAdId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitialunitid">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="bannerunitid">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
